@@ -22,10 +22,17 @@
   />
 </a>
 
-<a href="https://github.com/erfan-moghaddam?tab=repositories">
+<a href="mailto:erfanmusicmoghaddam@gmail.com">
   <img
-    src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="Repositories"
+    src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="tel:+989300661383">
+  <img
+    src="https://img.shields.io/badge/Phone-%2B98_930_066_1383-25D366?style=for-the-badge&logo=phone&logoColor=white"
+    alt="Phone"
   />
 </a>
 
@@ -59,11 +66,11 @@
 
 <table>
 <tr>
-<td width="190" align="center" valign="middle">
+<td width="165" align="center" valign="middle">
 
 <img
   src="./assets/profile-circle.png"
-  width="165"
+  width="135"
   alt="Erfan Moghaddam"
 />
 
@@ -81,36 +88,12 @@ I primarily work with <strong>Kotlin</strong> and <strong>Jetpack Compose</stron
 </p>
 
 <p>
-My work covers more than building application screens. I focus on reliable API communication, predictable application state, authentication and session workflows, localization, reusable UI components and maintainable code.
+My focus includes REST API integration, authentication and session workflows, predictable application state, localization, reusable UI components and maintainable code.
 </p>
 
 </td>
 </tr>
 </table>
-
----
-
-## Developer Profile
-
-<pre><code class="language-kotlin">val developer = AndroidDeveloper(
-    name = "Erfan Moghaddam",
-    role = "Android Developer",
-    primaryStack = listOf(
-        "Kotlin",
-        "Jetpack Compose",
-        "MVVM",
-        "Clean Architecture",
-        "REST APIs"
-    ),
-    focus = listOf(
-        "Reliable application flows",
-        "Maintainable architecture",
-        "Authentication and session management",
-        "Resilient API communication",
-        "Reusable UI components"
-    ),
-    availableFor = "Remote freelance and contract projects"
-)</code></pre>
 
 ---
 
@@ -298,33 +281,6 @@ I have also worked on private Android products involving:
 
 Project names, screenshots and implementation details are not publicly displayed because of confidentiality requirements.
 
-An anonymized technical overview can be discussed when relevant to a potential collaboration.
-
----
-
-## Engineering Approach
-
-<pre><code>Understand the product        before choosing the technology
-Keep application state        explicit and predictable
-Handle network failures       instead of assuming perfect connections
-Separate responsibilities     instead of creating tightly coupled features
-Write maintainable code       instead of temporary fixes
-Build for product value       instead of technical decoration</code></pre>
-
----
-
-## Currently Available For
-
-- Remote Android development
-- Freelance and contract projects
-- Kotlin and Jetpack Compose development
-- REST API integration
-- Authentication and session workflows
-- Android feature implementation
-- Bug fixing and code refactoring
-- Architecture improvement
-- Python API and automation development
-
 ---
 
 ## Contact
@@ -337,24 +293,24 @@ Build for product value       instead of technical decoration</code></pre>
 Contact me to discuss the product requirements, technical scope and possible implementation approach.
 </p>
 
+<a href="mailto:erfanmusicmoghaddam@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-erfanmusicmoghaddam%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="tel:+989300661383">
+  <img
+    src="https://img.shields.io/badge/Phone-%2B98_930_066_1383-25D366?style=for-the-badge&logo=phone&logoColor=white"
+    alt="Phone"
+  />
+</a>
+
 <a href="https://www.linkedin.com/in/erfan-moghaddam-co/">
   <img
-    src="https://img.shields.io/badge/Discuss_a_Project-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-Discuss_a_Project-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
-  />
-</a>
-
-<a href="https://erfan-moghaddam.github.io/">
-  <img
-    src="https://img.shields.io/badge/View_My_Work-Portfolio-3DDC84?style=for-the-badge&logo=android&logoColor=white"
-    alt="Portfolio"
-  />
-</a>
-
-<a href="https://github.com/erfan-moghaddam?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/Explore_My_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub repositories"
   />
 </a>
 
