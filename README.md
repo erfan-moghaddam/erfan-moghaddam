@@ -1,104 +1,183 @@
-# Hi, I'm Erfan Moghaddam 👋
+<div align="center">
 
-### Android Developer | Kotlin • Jetpack Compose • Clean Architecture
+<table>
+  <tr>
+    <td align="right" valign="middle">
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+      <br><br>
+      <img src="https://img.shields.io/badge/MVVM-FFB300?style=for-the-badge" alt="MVVM" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="./assets/profile.jpg" width="210" alt="Erfan Moghaddam" />
+    </td>
+    <td align="left" valign="middle">
+      <img src="https://img.shields.io/badge/Clean_Architecture-8E44AD?style=for-the-badge" alt="Clean Architecture" />
+      <br><br>
+      <img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </td>
+  </tr>
+</table>
 
-I build modern, maintainable, and API-driven Android applications.
+<h1>Erfan Moghaddam</h1>
 
-My work focuses on developing Android products with Kotlin, implementing responsive interfaces with Jetpack Compose, integrating REST APIs, and improving existing mobile codebases.
+<h3>Android Developer building reliable and maintainable mobile products</h3>
 
-I am available for remote freelance and contract opportunities.
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=3DDC84&center=true&vCenter=true&width=720&lines=Kotlin+%26+Jetpack+Compose;Clean+Architecture+%7C+MVVM+%7C+REST+APIs;Building+reliable+Android+products;Open+to+remote+freelance+projects"
+  alt="Typing introduction"
+/>
+
+<br>
+
+<a href="https://erfan-moghaddam.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="https://www.linkedin.com/in/erfan-moghaddam-co/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
 
 ---
 
-## What I Do
+## About Me
 
-- Develop Android applications with **Kotlin**
-- Build modern user interfaces with **Jetpack Compose**
-- Structure applications using **MVVM** and **Clean Architecture**
-- Integrate Android applications with **REST APIs**
-- Implement authentication and user-management workflows
-- Convert UI designs into functional Android screens
-- Debug, maintain, and refactor existing Android projects
-- Build supporting services and automation tools with **Python**
+I'm an Android developer focused on turning product requirements and UI designs into reliable, production-ready mobile applications.
+
+I work primarily with **Kotlin** and **Jetpack Compose**, combining modern interface development with maintainable application architecture and reliable API integration.
+
+My engineering focus extends beyond implementing screens. I pay particular attention to the parts that determine whether an application remains stable after release:
+
+- clear separation of responsibilities
+- predictable application state
+- resilient network communication
+- authentication and session flows
+- API error handling
+- maintainable and readable code
+- localization and reusable UI components
+
+I also use **Python** to build supporting APIs, automation tools, and data-processing components when a mobile product requires functionality beyond the Android client.
 
 ---
 
-## Tech Stack
+## What I Can Build
 
-### Mobile Development
+<table>
+  <tr>
+    <td width="33%" valign="top">
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+### Mobile Products
+
+- Android applications
+- Kotlin application development
+- Jetpack Compose interfaces
+- Figma-to-Android implementation
+- Responsive mobile layouts
+
+    </td>
+    <td width="33%" valign="top">
+
+### Application Integration
+
+- REST API integration
+- Authentication workflows
+- Session and token handling
+- Network error handling
+- API-driven application flows
+
+    </td>
+    <td width="33%" valign="top">
+
+### Existing Applications
+
+- Feature implementation
+- Bug investigation
+- Code refactoring
+- Architecture improvement
+- Application maintenance
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## Core Technologies
+
+<div align="center">
+
+### Android
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle" alt="Android technologies" />
+
+<br><br>
+
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-
-### Architecture and Integration
-
 ![MVVM](https://img.shields.io/badge/MVVM-1565C0?style=flat-square)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6A1B9A?style=flat-square)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=flat-square&logo=materialdesign&logoColor=white)
 
-### Additional Technologies
+### Supporting Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,git,github,html,css" alt="Supporting technologies" />
+
+</div>
 
 ---
 
-## Selected Projects
+## Selected Work
 
 ### Crypto Signal API
 
-A Python-based API developed as part of a cryptocurrency market analysis and signal-generation system.
+A Python-based API developed as part of a cryptocurrency market-analysis and signal-generation system.
 
-The project focuses on preparing backend functionality for collecting, processing, and exposing market-analysis data.
+The project provides a foundation for collecting, processing, and exposing structured market data to other applications and services.
 
-[View Repository](https://github.com/erfan-moghaddam/crypto-signal-api)
+**Focus areas:**
+
+- backend API development
+- market-data processing
+- modular service design
+- integration with analysis components
+
+[View Repository →](https://github.com/erfan-moghaddam/crypto-signal-api)
+
+---
+
+### Crypto Signal Agent
+
+An active project focused on building an automated cryptocurrency market-analysis agent.
+
+The system is being designed to combine market information, analysis logic, API services, and notification workflows in a modular architecture.
+
+**Current status:** Active development
 
 ---
 
 ### Developer Portfolio
 
-A responsive personal portfolio website created to present my development skills, professional background, and selected projects.
+A responsive personal website created to present my development experience, selected projects, technical capabilities, and professional contact information.
 
-[View Live Website](https://erfan-moghaddam.github.io/)  
-[View Repository](https://github.com/erfan-moghaddam/erfan-moghaddam.github.io)
-
----
-
-## Services
-
-- Android application development
-- Kotlin and Jetpack Compose development
-- REST API integration
-- Figma-to-Android implementation
-- Authentication-flow implementation
-- Existing Android application maintenance
-- Bug fixing and code refactoring
-- Mobile UI implementation
-- Python-based API and automation development
+[View Live Website →](https://erfan-moghaddam.github.io/)  
+[View Source Code →](https://github.com/erfan-moghaddam/erfan-moghaddam.github.io)
 
 ---
 
-## Currently Focused On
+## Engineering Priorities
 
-- Building production-ready Android applications
-- Improving Android application architecture
-- Developing API-driven mobile products
-- Expanding automated testing and code-quality practices
-- Creating technical case studies for selected projects
-
----
-
-## Contact
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://erfan-moghaddam.github.io/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erfan_Moghaddam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erfan-moghaddam-co/)
-
----
-
-> Open to remote freelance and contract Android development projects.
+```text
+Readable code              over unnecessary complexity
+Reliable application flow  over fragile shortcuts
+Clear architecture         over tightly coupled features
+Maintainability            over temporary solutions
+Product value              over technology for its own sake
